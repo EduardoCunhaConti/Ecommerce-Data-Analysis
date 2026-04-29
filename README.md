@@ -1,6 +1,6 @@
 # 🛒 E-commerce Data Analysis — Amazon & Olist
 
-Projeto de Ciência de Dados desenvolvido como trabalho acadêmico no **CEUB**, com análise exploratória, construção de KPIs, visualizações e aplicação de algoritmos de Machine Learning sobre dois datasets de e-commerce: **Amazon Sales** (mercado indiano) e **Olist** (e-commerce brasileiro).
+Projeto de Ciência de Dados desenvolvido como trabalho acadêmico, com análise exploratória, construção de KPIs, visualizações e aplicação de algoritmos de Machine Learning sobre dois datasets de e-commerce: **Amazon Sales** (mercado indiano) e **Olist** (e-commerce brasileiro).
 
 ---
 
