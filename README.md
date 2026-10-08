@@ -19,8 +19,7 @@ Fonte: [Kaggle — Brazilian E-Commerce Public Dataset by Olist](https://www.kag
 ## 🗂️ Estrutura do Repositório
 
 ```
-ecommerce-data-analysis/
-│
+Ecommerce-Data-Analysis/│
 ├── scripts/
 │   ├── data_analysis.ipynb   # Notebook principal com todo o projeto (Amazon + Olist)
 │   └── data_analysis.py      # Script Python standalone com ETL, KPIs e dashboards do Olist
@@ -195,8 +194,8 @@ ecommerce-data-analysis/
 ### Script Python (local)
 1. Clone o repositório e instale as dependências:
 ```bash
-git clone https://github.com/seu-usuario/ecommerce-data-analysis.git
-cd ecommerce-data-analysis
+git clone https://github.com/EduardoCunhaConti/Ecommerce-Data-Analysis.git
+cd Ecommerce-Data-Analysis
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 2. Coloque os arquivos `.csv` do Olist em uma pasta `data/` na raiz do projeto
